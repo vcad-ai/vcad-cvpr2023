@@ -1,0 +1,1 @@
+import{_,o as t,c as n,r as o}from"./index.6cdcacac.js";const s={},r={class:"el-menu-demo title1"};function c(e,a){return t(),n("div",r,[o(e.$slots,"default")])}var i=_(s,[["render",c]]);export{i as _};
