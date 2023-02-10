@@ -1,0 +1,1 @@
+import{_,o as t,e as n,r as o}from"./index.7b7b082d.js";const s={},r={class:"el-menu-demo title1"};function a(e,c){return t(),n("div",r,[o(e.$slots,"default")])}var i=_(s,[["render",a]]);export{i as _};
