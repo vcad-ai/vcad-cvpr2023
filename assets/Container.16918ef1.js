@@ -1,0 +1,1 @@
+import{d as a,o as n,c as s,b as t,r as o,k as r,u as p,i}from"./index.1e1481a8.js";const c=a({__name:"Container",setup(l){return(e,_)=>(n(),s("div",{class:"app-container",style:r(p(i)()?"padding: 60px 10px":"padding: 60px 350px")},[t("div",null,[o(e.$slots,"default")])],4))}});export{c as _};
